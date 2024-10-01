@@ -1,0 +1,17 @@
+name: typed_data
+version: 1.4.0-wip
+description: >-
+  Utility functions and classes related to the dart:typed_data library.
+repository: https://github.com/dart-lang/typed_data
+publish_to: none
+
+topics:
+  - data-structures
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  collection:
+    path: "../collection"
+

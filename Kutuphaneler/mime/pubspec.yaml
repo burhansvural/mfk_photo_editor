@@ -1,0 +1,20 @@
+name: mime
+version: 1.0.6
+description: >-
+  Utilities for handling media (MIME) types, including determining a type from
+  a file extension and file contents.
+publish_to: none
+topics:
+ - magic-numbers
+ - mime
+ - mimetype
+ - multipart-form
+
+
+environment:
+  sdk: ^3.5.1
+
+dev_dependencies:
+  dart_flutter_team_lints:
+    path: "../dart_flutter_team_lints"
+  test: ^1.25.8

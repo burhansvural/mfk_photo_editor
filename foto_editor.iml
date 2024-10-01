@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/colorfilter_generator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/colorfilter_generator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/colorfilter_generator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/crop_image/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/crop_image/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/crop_image/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/matrix2d/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/matrix2d/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/matrix2d/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/screen_shot/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/screen_shot/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/screen_shot/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/async/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/async/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/async/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/checks/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/checks/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/checks/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/collection/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/collection/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/collection/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/cross_file/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/cross_file/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/cross_file/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/dart_flutter_team_lints/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/dart_flutter_team_lints/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/dart_flutter_team_lints/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/flutter_plugin_android_lifecycle/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/flutter_plugin_android_lifecycle/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/flutter_plugin_android_lifecycle/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/http/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/http/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/http/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/http_parser/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/http_parser/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/http_parser/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_android/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_android/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_android/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_for_web/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_for_web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_for_web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/meta/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/meta/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/meta/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/mime/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/mime/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/mime/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/path/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/path/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/path/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/pigeon/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/pigeon/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/pigeon/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/plugin_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/plugin_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/plugin_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/source_span/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/source_span/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/source_span/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/string_scanner/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/string_scanner/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/string_scanner/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/term_glyph/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/term_glyph/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/term_glyph/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/test/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/typed_data/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/typed_data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/typed_data/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/web/web/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/web/web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/web/web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/web/web_generator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/web/web_generator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/web/web_generator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/pixel_color_image/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/pixel_color_image/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/pixel_color_image/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/pixel_color_picker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/pixel_color_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/pixel_color_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Kutuphaneler/image_picker/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>

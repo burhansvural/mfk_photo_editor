@@ -1,0 +1,24 @@
+name: http_parser
+version: 4.1.0
+description: >-
+  A platform-independent package for parsing and serializing HTTP formats.
+repository: https://github.com/dart-lang/http_parser
+publish_to: none
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  collection:
+    path: "../collection"
+  source_span:
+    path: "../source_span"
+  string_scanner:
+    path: "../string_scanner"
+  typed_data:
+    path: "../typed_data"
+
+dev_dependencies:
+  dart_flutter_team_lints:
+    path: "../dart_flutter_team_lints"
+

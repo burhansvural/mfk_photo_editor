@@ -1,0 +1,22 @@
+name: http
+version: 1.2.3-wip
+description: A composable, multi-platform, Future-based API for HTTP requests.
+repository: https://github.com/dart-lang/http/tree/master/pkgs/http
+publish_to: none
+
+topics:
+ - http
+ - network
+ - protocols
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  async:
+   path: "../async"
+  http_parser:
+   path: "../http_parser"
+  meta: 1.15.0
+  web:
+   path: "../web/web"

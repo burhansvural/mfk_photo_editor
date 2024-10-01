@@ -1,0 +1,16 @@
+name: cross_file
+description: An abstraction to allow working with files across multiple platforms.
+version: 0.3.4+2
+publish_to: none
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  meta: ^1.15.0
+  web:
+    path: "../web/web"
+
+
+topics:
+  - files

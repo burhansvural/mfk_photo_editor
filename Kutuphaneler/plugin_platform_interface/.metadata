@@ -1,0 +1,5 @@
+version:
+  revision: f213f92587b3f6f3b079a9cf356b2c5fcf00d20b
+  channel: bsv_master
+
+project_type: package

@@ -1,0 +1,22 @@
+name: source_span
+version: 1.10.1-wip
+description: >-
+  Provides a standard representation for source code locations and spans.
+repository: https://github.com/dart-lang/source_span
+publish_to: none
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  collection:
+    path: "../collection"
+  path:
+    path: "../path"
+  term_glyph:
+    path: "../term_glyph"
+
+dev_dependencies:
+  dart_flutter_team_lints:
+    path: "../dart_flutter_team_lints"
+

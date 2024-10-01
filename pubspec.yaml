@@ -1,0 +1,42 @@
+name: foto_editor
+description: "A new Flutter project."
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker:
+    path: "Kutuphaneler/image_picker"
+  provider: ^6.1.2
+  crop_image:
+    path: "Kutuphaneler/crop_image"
+  screen_shot:
+    path: "Kutuphaneler/screen_shot"
+  colorfilter_generator:
+    path: "Kutuphaneler/colorfilter_generator"
+  blur:
+    path: "Kutuphaneler/blur"
+  pixel_color_image:
+    path: "Kutuphaneler/pixel_color_image"
+  pixel_color_picker:
+    path: "Kutuphaneler/pixel_color_picker"
+  flutter_colorpicker:
+    path: "Kutuphaneler/flutter_colorpicker"
+  http: ^1.2.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/textures/

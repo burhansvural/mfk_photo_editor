@@ -1,0 +1,23 @@
+name: image_picker_platform_interface
+description: A common platform interface for the image_picker plugin.
+version: 2.10.0
+publish_to: none
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cross_file:
+    path: "../cross_file"
+  http:
+    path: "../http"
+  plugin_platform_interface:
+    path: "../plugin_platform_interface"
+
+
+topics:
+  - image-picker
+  - files
+  - file-selection

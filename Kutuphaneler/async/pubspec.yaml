@@ -1,0 +1,16 @@
+name: async
+version: 2.12.0-wip
+description: Utility functions and classes related to the 'dart:async' library.
+repository: https://github.com/dart-lang/async
+publish_to: none
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  collection:
+    path: "../collection"
+  meta: ^1.15.0
+
+topics:
+- async
